@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "description": "craco less plugin",
   "main": "index.js",
-  "author": "jaskang",
+  "author": "techdatamoire",
   "license": "MIT",
   "repository": "github::techdatamoire/craco-less-plugin",
   "bugs": {
@@ -21,7 +21,7 @@
     "less-loader": "^5.0.0"
   },
   "peerDependencies": {
-    "@craco/craco": "^5.5.0",
+    "@craco/craco": "^6.2.0",
     "react-scripts": "^3.3.0"
   }
 }
