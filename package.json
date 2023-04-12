@@ -5,10 +5,10 @@
   "main": "index.js",
   "author": "jaskang",
   "license": "MIT",
-  "repository": "github::JasKang/craco-less-plugin",
+  "repository": "github::techdatamoire/craco-less-plugin",
   "bugs": {
-    "url": "https://github.com/jasKang/craco-less-plugin/issues",
-    "email": "jaskang@qq.com"
+    "url": "https://github.com/techdatamoire/craco-less-plugin/issues",
+    "email": "info@techdatamoire.com"
   },
   "keywords": [
     "craco",
